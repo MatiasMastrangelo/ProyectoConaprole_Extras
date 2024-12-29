@@ -1,0 +1,122 @@
+[
+  {
+    "codigo_producto": "CNP001",
+    "descripcion": "Leche Entera Conaprole 1L",
+    "precio": 45.50,
+    "presentacion": "Envase de 1 litro"
+  },
+  {
+    "codigo_producto": "CNP002",
+    "descripcion": "Leche Descremada Conaprole 1L",
+    "precio": 43.00,
+    "presentacion": "Envase de 1 litro"
+  },
+  {
+    "codigo_producto": "CNP003",
+    "descripcion": "Leche UHT Conaprole 1L",
+    "precio": 47.00,
+    "presentacion": "Envase de 1 litro"
+  },
+  {
+    "codigo_producto": "CNP004",
+    "descripcion": "Yogur Natural Conaprole 500g",
+    "precio": 32.00,
+    "presentacion": "Envase de 500 gramos"
+  },
+  {
+    "codigo_producto": "CNP005",
+    "descripcion": "Queso Fresco Conaprole 300g",
+    "precio": 90.00,
+    "presentacion": "Envase de 300 gramos"
+  },
+  {
+    "codigo_producto": "CNP006",
+    "descripcion": "Queso Crema Conaprole 200g",
+    "precio": 95.00,
+    "presentacion": "Envase de 200 gramos"
+  },
+  {
+    "codigo_producto": "CNP007",
+    "descripcion": "Queso Parmesano Conaprole 200g",
+    "precio": 250.00,
+    "presentacion": "Envase de 200 gramos"
+  },
+  {
+    "codigo_producto": "CNP008",
+    "descripcion": "Manteca Conaprole 200g",
+    "precio": 90.00,
+    "presentacion": "Envase de 200 gramos"
+  },
+  {
+    "codigo_producto": "CNP009",
+    "descripcion": "Crema de Leche Conaprole 200g",
+    "precio": 95.00,
+    "presentacion": "Envase de 200 gramos"
+  },
+  {
+    "codigo_producto": "CNP010",
+    "descripcion": "Leche en Polvo Conaprole 800g",
+    "precio": 330.00,
+    "presentacion": "Envase de 800 gramos"
+  },
+  {
+    "codigo_producto": "CNP011",
+    "descripcion": "Leche Condensada Conaprole 395g",
+    "precio": 120.00,
+    "presentacion": "Envase de 395 gramos"
+  },
+  {
+    "codigo_producto": "CNP012",
+    "descripcion": "Leche Larga Vida Conaprole 1L",
+    "precio": 50.00,
+    "presentacion": "Envase de 1 litro"
+  },
+  {
+    "codigo_producto": "CNP013",
+    "descripcion": "Yogur con Frutas Conaprole 500g",
+    "precio": 36.00,
+    "presentacion": "Envase de 500 gramos"
+  },
+  {
+    "codigo_producto": "CNP014",
+    "descripcion": "Leche Chocolatada Conaprole 1L",
+    "precio": 78.00,
+    "presentacion": "Envase de 1 litro"
+  },
+  {
+    "codigo_producto": "CNP015",
+    "descripcion": "Queso Tipo Holanda Conaprole 400g",
+    "precio": 210.00,
+    "presentacion": "Envase de 400 gramos"
+  },
+  {
+    "codigo_producto": "CNP016",
+    "descripcion": "Queso Cuartirolo Conaprole 300g",
+    "precio": 110.00,
+    "presentacion": "Envase de 300 gramos"
+  },
+  {
+    "codigo_producto": "CNP017",
+    "descripcion": "Queso Gouda Conaprole 200g",
+    "precio": 150.00,
+    "presentacion": "Envase de 200 gramos"
+  },
+  {
+    "codigo_producto": "CNP018",
+    "descripcion": "Yogur Bebible Conaprole 250ml",
+    "precio": 24.00,
+    "presentacion": "Envase de 250 ml"
+  },
+  {
+    "codigo_producto": "CNP019",
+    "descripcion": "Manteca Sin Sal Conaprole 200g",
+    "precio": 95.00,
+    "presentacion": "Envase de 200 gramos"
+  },
+  {
+    "codigo_producto": "CNP020",
+    "descripcion": "Colet 250ml",
+    "precio": 52.00,
+    "presentacion": "Envase de 250 ml"
+  }
+]
